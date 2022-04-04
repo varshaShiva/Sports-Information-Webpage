@@ -1,0 +1,35 @@
+
+
+
+
+.img_modal {
+    display: inline-block;
+}
+
+.modal-content {
+    margin-top: 10px;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.book {
+    cursor: pointer;
+}
+
+
+.bookimg {
+    height: 400px;
+    width: 300px;
+}
+
+div {
+    background-image: url("darkblue.webp");
+    height: 400px;
+    width: 100%;
+    opacity: 100%;
+}
+body{
+   color: beige;
+}
